@@ -1,4 +1,4 @@
-Titanic Survival Prediction Project
+TASK_1 : Titanic Survival Prediction Project
 
 Overview:
 This project was undertaken during my internship at CodSoft, where I successfully completed my first task - Titanic Survival Prediction. The goal was to leverage Data Science and Machine Learning techniques to predict passenger survival outcomes based on the famous Titanic Dataset from Kaggle.
