@@ -12,6 +12,22 @@ Introduced new features to enhance prediction accuracy.
 Machine Learning Model: 
 Trained and tested a Logistic Regression model with outstanding accuracy in predicting the survival outcomes of Titanic passengers.
 
+TASK_2 : MOVIE RATING PREDICTION WITH PYTHON
+
+The goal of this project is to build a robust predictive model to forecast the ratings of movies. By analyzing historical movie data, this model utilizes regression techniques to estimate ratings based on features like genre, director, and actors. The project encompasses multiple stages:
+--Data Preprocessing
+--Exploratory Data Analysis (EDA)
+--Feature Engineering
+--Model Development, Training, and Testing
+--Model Prediction Using Visualized Charts
+Key Analyses and Visualizations:
+--Top Ten Highest-Rated Movies
+--Contrast of Rating and Votes
+--Top 10 Actors
+--Pair Plot
+--Correlation Heatmap
+--Unique Values of Genre
+
 TASK_3 : IRIS Flower Classification
 
 Overview:
