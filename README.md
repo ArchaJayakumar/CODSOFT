@@ -41,4 +41,14 @@ The dataset contains 150 observations of Iris flowers. There are four features r
 --Petal width in cm
 Along with the species label:
 Species: Setosa, Versicolor, Virginica
-The selected model demonstrates high accuracy in classifying the Iris species, making it a reliable tool for predictive analysis in this context. 
+The selected model demonstrates high accuracy in classifying the Iris species, making it a reliable tool for predictive analysis in this context.
+
+TASK_4 : Sales Prediction Using Python
+
+This project is focused on forecasting the amount of a product that customers will purchase. Our approach considers a variety of factors including advertising expenditure, target audience segmentation, and advertising platform selection. The goal is to leverage machine learning techniques in Python to analyze and interpret data for informed decision-making in advertising, optimizing strategies to maximize sales potential.
+Features:
+--Data Preprocessing: Clean and prepare your sales data for analysis.
+--Exploratory Data Analysis: Gain insights from the data with visualization and statistical methods.
+--Model Training: Implement machine learning algorithms to predict sales.
+--Evaluation: Assess the performance of the model using appropriate metrics.
+--Optimization: Fine-tune the model for better accuracy and efficiency.
